@@ -1,2 +1,2 @@
 # BID _ Website
-
+BID is a web application that allows users to bid for products that are auctioned. BID has two logins namely USER login and SELLER login . When a seller has to sell a product he/ she uploads product details along with an initial bid amount and the bid due date. Users can start bidding on the product until the due. Once the due date is over, the highest bidder becomes the seller and the details of the user and the seller are exchanged.
